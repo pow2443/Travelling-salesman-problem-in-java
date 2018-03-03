@@ -3,7 +3,6 @@ package tsp;
 
 /**
  *Project Name : Travelling salesman problem
- *Professor : Niko Culevski
  * Class:       <b>TSPGUI</b>
  * File:        TSPGUI.java
  * <pre>
